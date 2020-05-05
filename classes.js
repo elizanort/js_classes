@@ -118,7 +118,7 @@ class Estate{
         let estatePlants = Object.keys(estate)
         
         for (let i = 0; i < Object.keys(estate).length; i++){
-            let gardenName = Object.values(estate[i];
+            let gardenName = Object.values(estate[i]);
     
             for(let flower in gardenName){
     
